@@ -2,4 +2,4 @@
 
 obfuscated with superblaubeere27's obfuscator, hwid system removed
 
-Made by Etho akawarq00 on discord (its an old version, made around 13/08/2023)
+Made by Etho aka warq00 on discord (its an old version, made around 13/08/2023)
